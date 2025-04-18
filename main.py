@@ -95,7 +95,7 @@ async def main(token: str, guild_id):
         info = Tools.information(guild_id, token)
 
     menu = """
-> github.com/Bad-Discord/Discord-Nuker
+> teko
 
 01. Delete All Channels    08. Webhook Spam Guild     15. Change Guild Icon
 02. Delete All Roles       09. Message Spam Guild     16. Remove all emojis
